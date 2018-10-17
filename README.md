@@ -24,4 +24,7 @@ Manually extracted features :
 	Character based
 	Syntactic based
 	Structural based
-	Functional based                         
+	Functional based
+	
+In these approach SVM outperforms the Naive Bayes model. A study on the important features for identifying the gender shows that syntactic
+feature is most essential in identifying the gender.
