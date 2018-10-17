@@ -1,1 +1,1 @@
-# Gender-Detection-From-SMS Text Meaasge Using Machine Learning
+# Gender Detection From SMS Text Meaasge Using Machine Learning
