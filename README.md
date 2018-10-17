@@ -18,4 +18,10 @@ Implementation Language : Python
 
 n-gram Features : Use tf-idf vectorization                                                                                                 
 
-Manually extracted features :  Word based, Character based, Syntactic based, Structural based and Functional based                         
+Manually extracted features :  
+
+	Word based
+	Character based
+	Syntactic based
+	Structural based
+	Functional based                         
